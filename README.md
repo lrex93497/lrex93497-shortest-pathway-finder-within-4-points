@@ -15,7 +15,7 @@
 The time/distance for forward or backward direction between each point can be different.
 <h2 id="how"> How to use<h/2><br/>
 
-<h4>To use the program, run *main.py* in console. To input distance/time, modify the value: *time_subpath* dictionary in line 5, input all distance/time for both forward and backward direction between each point. For example, if the time of travel between A and B is 5 with the same forward and backward time/distance, then <i>'ab':5</i>, <i>'ba':5</i>. If a to b is 5 but b to a is 3, then <i>'ab':5</i>, <i>'ba':3</i> <h/4><br/>
+<h4>To use the program, run <i>main.py</i> in console. To input distance/time, modify the value: *time_subpath* dictionary in line 5, input all distance/time for both forward and backward direction between each point. For example, if the time of travel between A and B is 5 with the same forward and backward time/distance, then <i>'ab':5</i>, <i>'ba':5</i>. If a to b is 5 but b to a is 3, then <i>'ab':5</i>, <i>'ba':3</i> <h/4><br/>
   
 <h4>The program will first generate and shows all possible pathways, then calculate and shows the shortest distance/time, and finally the shortest pathway(s). The shortest pathway(s) usually come up in pairs if all points' forward distance/time is the same as backward.<br\><br\>
   
