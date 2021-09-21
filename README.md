@@ -36,5 +36,5 @@ The time/distance for forward or backward direction between each point can be di
 <h4>python 3.7.3 is recommended with numpy installed<br/><h\4>
 
 <h2 id="licens"> License<h/2>
-<h4>This program was distributed under the GNU General Public License v3.0.<h\4>
+<h4>This program was distributed under the BSD-3-Clause License.<h\4>
 
